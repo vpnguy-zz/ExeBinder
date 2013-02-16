@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("ConsoleApplication1")> 
+<Assembly: AssemblyTitle("ExeBinder")> 
 <Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Microsoft")> 
-<Assembly: AssemblyProduct("ConsoleApplication1")> 
-<Assembly: AssemblyCopyright("Copyright © Microsoft 2013")> 
+<Assembly: AssemblyCompany("")> 
+<Assembly: AssemblyProduct("")> 
+<Assembly: AssemblyCopyright("")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
