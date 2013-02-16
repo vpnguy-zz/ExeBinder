@@ -1,0 +1,10 @@
+C:\Users\R740\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\R740\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\R740\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\R740\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\R740\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\R740\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\R740\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\R740\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\R740\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\R740\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
