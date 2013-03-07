@@ -8,8 +8,10 @@ Example:<br />
 <b>ExeBind("C:\CleanExe.exe", "C:\SpookyExe.exe") </b> will bind a copy of SpookyExe to CleanExe
 
 
-<br />                 
-					GNU GENERAL PUBLIC LICENSE
+<br />
+
+                 
+          GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
  Copyright (C) 1989, 1991 Free Software Foundation, Inc.,
@@ -287,6 +289,3 @@ TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY
 YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER
 PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGES.
-
-
-
