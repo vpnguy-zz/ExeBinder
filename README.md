@@ -1,7 +1,7 @@
 ExeBinder <br />
 
 Usage:<br />
-<b>ExeBind(Path_To_Original_Executable,Path_To_Executable_To_Bind)
+<b>ExeBind(Path_To_Original_Executable,Path_To_Executable_To_Bind)</b>
 <br />
 
 Example:<br />
